@@ -8,7 +8,6 @@
     <img src="https://img.shields.io/badge/-hugosilvaphotography-333333?style=flat&logo=instagram&logoColor=white">
 </a>
 
-  
 
 ## 💻 Tech Stack
 
@@ -40,14 +39,6 @@
 ## 👨‍💻 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-pereira275) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo._.pereira_/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoMMP)
-
-## 🔥 Contribution Activity
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/diogo-mmpereira/diogo-mmpereira/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/diogo-mmpereira/diogo-mmpereira/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/diogo-mmpereira/diogo-mmpereira/output/github-contribution-grid-snake.svg">
-</picture>
 
 
 ## ✨ Visitors
